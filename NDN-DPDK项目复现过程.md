@@ -1,8 +1,3 @@
-## 安装
-
-NDNDPDK_MK_RELEASE=1 make
-cd mk/
-sudo ./install.sh
 
 ## NDN-DPDK
 
